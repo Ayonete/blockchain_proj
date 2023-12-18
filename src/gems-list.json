@@ -1,0 +1,122 @@
+[
+  {
+      "id": 0,
+      "name": "Mystical Topaz",
+      "picture": "images/1.png",
+      "weight": "0.5kg",
+      "type": "Topaz",
+      "location": "Dublin, Ireland"
+  },
+  {
+      "id": 1,
+      "name": "Radiant Ruby",
+      "picture": "images/2.png",
+      "weight": "0.3kg",
+      "type": "Ruby",
+      "location": "Jaipur, India"
+  },
+  {
+      "id": 2,
+      "name": "Sapphire Dream",
+      "picture": "images/3.png",
+      "weight": "0.4kg",
+      "type": "Sapphire",
+      "location": "Colombo, Sri Lanka"
+  },
+  {
+      "id": 3,
+      "name": "Emerald Essence",
+      "picture": "images/4.png",
+      "weight": "0.6kg",
+      "type": "Emerald",
+      "location": "Bogotá, Colombia"
+  },
+  {
+      "id": 4,
+      "name": "Amethyst Aura",
+      "picture": "images/5.png",
+      "weight": "0.2kg",
+      "type": "Amethyst",
+      "location": "Rio de Janeiro, Brazil"
+  },
+  {
+      "id": 5,
+      "name": "Diamond Delight",
+      "picture": "images/6.png",
+      "weight": "0.5kg",
+      "type": "Diamond",
+      "location": "Cape Town, South Africa"
+  },
+  {
+      "id": 6,
+      "name": "Lustrous Opal",
+      "picture": "images/7.png",
+      "weight": "0.3kg",
+      "type": "Opal",
+      "location": "Sydney, Australia"
+  },
+  {
+      "id": 7,
+      "name": "Pearl Perfection",
+      "picture": "images/8.png",
+      "weight": "0.1kg",
+      "type": "Pearl",
+      "location": "Tokyo, Japan"
+  },
+  {
+      "id": 8,
+      "name": "Citrine Charm",
+      "picture": "images/9.png",
+      "weight": "0.4kg",
+      "type": "Citrine",
+      "location": "Paris, France"
+  },
+  {
+      "id": 9,
+      "name": "Garnet Glimmer",
+      "picture": "images/10.png",
+      "weight": "0.3kg",
+      "type": "Garnet",
+      "location": "New York City, USA"
+  },
+  {
+      "id": 10,
+      "name": "Onyx Odyssey",
+      "picture": "images/11.png",
+      "weight": "0.4kg",
+      "type": "Onyx",
+      "location": "Milan, Italy"
+  },
+  {
+      "id": 11,
+      "name": "Quartz Quest",
+      "picture": "images/12.png",
+      "weight": "0.3kg",
+      "type": "Quartz",
+      "location": "Vancouver, Canada"
+  },
+  {
+      "id": 12,
+      "name": "Turquoise Tranquility",
+      "picture": "images/13.png",
+      "weight": "0.2kg",
+      "type": "Turquoise",
+      "location": "Istanbul, Turkey"
+  },
+  {
+      "id": 13,
+      "name": "Aquamarine Adventure",
+      "picture": "images/14.png",
+      "weight": "0.4kg",
+      "type": "Aquamarine",
+      "location": "Cairo, Egypt"
+  },
+  {
+      "id": 14,
+      "name": "Peridot Promise",
+      "picture": "images/15.png",
+      "weight": "0.3kg",
+      "type": "Peridot",
+      "location": "Bangkok, Thailand"
+  }
+]
