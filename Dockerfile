@@ -13,6 +13,9 @@ COPY . .
 # Install project dependencies
 RUN npm install
 
+RUN npm install dotenv @truffle/hdwallet-provider
+
+
 # Specify an environment variable for the network (optional)
 ENV NETWORK=development
 
@@ -20,4 +23,4 @@ ENV NETWORK=development
 EXPOSE 7545 8545
 
 # Set the command to migrate contracts on the specified network
-CMD ["truffle", "migrate", "--network", "development"]
+CMD ["truffle", "migrate", "--network", "development", "goerli"]
