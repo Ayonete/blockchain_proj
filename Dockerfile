@@ -10,7 +10,7 @@ COPY . .
 RUN npm ci
 
 # Build the Truffle project
-RUN npm run build
+RUN npm run start
 
 # Run the Truffle development server
 CMD ["npm", "run", "start"]
